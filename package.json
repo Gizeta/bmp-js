@@ -1,11 +1,11 @@
 {
-  "name": "bmp-js",
+  "name": "@gizeta/bmp-js",
   "version": "0.1.0",
   "description": "A pure javascript BMP encoder and decoder",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shaozilee/bmp-js"
+    "url": "https://github.com/Gizeta/bmp-js"
   },
   "keywords": [
     "bmp",
